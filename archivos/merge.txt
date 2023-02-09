@@ -1,0 +1,5 @@
+Nombre: Julian Salazar
+
+Edad: 21
+
+Aspiraciones: Comprender el paradigma de la programación orientada a objetos y aplicarlo en mis futuros proyectos. 

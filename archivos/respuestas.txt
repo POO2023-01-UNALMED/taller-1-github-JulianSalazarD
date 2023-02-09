@@ -1,0 +1,1 @@
+Al crear la carpeta archivos no se veia ningun cambio en github Desktop, al crear el archivo de texto respuestas ya github Desktop detecto los cambios realizados.

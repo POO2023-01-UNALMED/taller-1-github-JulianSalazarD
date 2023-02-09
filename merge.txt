@@ -1,1 +1,0 @@
-Al estar la carpeta archivos vacia no se decta el camabio y no se puede realizar un commit, una vez la carpeta contiene un archivo, ya el cambio si se detecta y se puede relaizar el commit
